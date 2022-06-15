@@ -1,0 +1,36 @@
+pasos para resolver un problema
+
+1 diseño de algoritmo
+2 algoritmo a programa
+3 ejecucion del algoritmo por la computadora
+
+
+caracteristica algoritmo
+
+1 preciso
+2 definido
+3 finito
+
+
+un algoritmo tiene tres partes
+
+entrada
+proceso
+salida
+
+ejemplo cocina
+
+entrada : ingerdientes 
+proceso : elaboracion de la receta
+salida : plato terminado cordero
+
+ejemplo pedido cliente a fabrica
+
+1 inicio
+2 leer el pedido
+3 examinar la ficha del cliente
+4 si el cliente se solvente aceptar si no rechazar
+5 fin
+
+
+
