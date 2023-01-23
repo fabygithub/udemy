@@ -1,0 +1,21 @@
+google chrome
+visual studio code
+postman
+mongo
+git
+github
+node.js
+
+ver la version instalada
+
+git --version
+
+git config --global user.name "nombre"
+git config --global user.email "correo"
+
+
+
+
+
+
+
