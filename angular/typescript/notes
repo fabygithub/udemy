@@ -14,4 +14,43 @@ let nombre = 'Strider';
 let puntosVida = 95;
 let arma = 'Espada';
 
+function calcularISV(productos: Producto[] ): [number,number]{  // producto[] es un arreglo de 2 numeros
+  let total = 0;
+  productos.forEach( ({ precio}) => {
+    total += precio;
+  });
+  
+  return [total, total * 0.15];
+  
+}
+
+el tipdado estricto nos ayuda a ver como funcionan las cosas
+
+que tipo de datos son los productos
+
+interface Producto(){   // retorna un arreglo de 2 numeros
+   desc   : string;
+   precio : number;
+}
+
+
+como luce un producto
+que propiedades debe tener un producto
+
+personaje.habilidades
+          hp
+          nombre
+          puebloNatal?
+ 
+(property)Personaje.hp : number  // hp es un numero
+
+puebloNatal?  // es opcional
+
+
+
+
+
+
+
+
 
