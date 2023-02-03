@@ -1,0 +1,22 @@
+instalar angular cli
+si hay un problema
+revisar la version de node
+
+para angular cli 14 
+se recomienda node 16.10.0
+
+Pueden ver las compatibilidades de Angular CLI con node aquí: 
+https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3.
+
+descargar un version especifica de node
+https://nodejs.org/en/download/releases/
+
+
+
+
+
+
+
+
+
+
