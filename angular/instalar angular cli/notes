@@ -1,0 +1,20 @@
+03-02-2023
+angular cli
+cli.angular.io
+
+npm install -g @angular/cli
+
+install as administrator
+
+sudo npm install -g @angular/cli
+password :
+
+view angular version
+ng --version
+
+
+
+
+
+
+
