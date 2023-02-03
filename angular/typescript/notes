@@ -1,0 +1,17 @@
+03-02-2023
+que es typescript
+
+javasript
+typescript is a superset
+
+tipado estricto y flexible
+mejora la legibilidad de codigo
+caracteristicas modernas
+
+01-ejercicios-basicos.ts
+
+let nombre = 'Strider';
+let puntosVida = 95;
+let arma = 'Espada';
+
+
