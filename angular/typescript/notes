@@ -46,7 +46,43 @@ personaje.habilidades
 
 puebloNatal?  // es opcional
 
+function sumar(a: number, b: number): number // argumentos a y b son numeros
+retorna un numero
 
+tener todos lo beneficios de typescript
+
+class Persona{
+ nombre : string;
+ edad   : number
+ 
+ constrictor(){
+ }
+
+}
+
+
+class ProductosComponent{
+
+}
+
+class ProductosService{
+
+}
+
+class ProductosDirective{
+
+}
+
+class ProductosPipe{
+
+}
+
+beneficios typescript
+
+ayuda de un programa fuerte
+tipado estricto
+errores en momento de escritura
+inyeccion de dependencias
 
 
 
